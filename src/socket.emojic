@@ -1,0 +1,31 @@
+📦 sockets 🏠
+
+💭 A wrapper around a TCP socket
+
+🕊️ 🔶🌐🧦 🍇
+  🖍️🆕 url 🔡
+  🖍️🆕 path 🔡
+  🖍️🆕 port 🔢
+  🖍️🆕 method 🔡
+  🖍️🆕 headers 🔡
+  🖍️🆕 body 🔡
+
+  🆕 🍼 method 🔡 🍼 url 🔡 🍼 port 🔢 🍼 path 🔡 🍼 headers 🔡 🍼 body 🔡 🍇🍉
+
+  ❗☎️ ➡️ 📞 🚧🚧🔸↕️ 🍇
+    ↩️🔺🆕📞 url port❗
+  🍉
+
+  ❗📖 socket 📞 🚧🚧🔸↕ 🍇
+    🆕🔠▶️🔡 headers❗ ➡️ header_builder
+    🍿 🔤POST🔤 🔤PUT🔤 🔤PATCH🔤 🍆 ➡️ resource_methods
+
+    ↪️ 🐦resource_methods 📫method❗❓ 🍇
+      🐻header_builder 🔤❌r❌nContent-Length: 🧲📐body❗🧲🔤❗
+      🐻header_builder 🔤❌r❌n❌r❌n🧲body🧲🔤❗
+    🍉
+
+    📇 🔤🧲📫method❗🧲 🧲path🧲 HTTP/1.1❌r❌nHost: 🧲url🧲❌r❌n🧲🔡header_builder❗🧲❌r❌n❌r❌n🔤❗ ➡️ request
+    🔺💬socket request❗
+  🍉
+🍉

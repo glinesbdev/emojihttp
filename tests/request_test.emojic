@@ -1,0 +1,63 @@
+🐇 🦔 🧪 🍇
+  ❗️🚧 callback 🍇➡️◼️🚧🚧🔸↕️🍉 description 🔡 🍇
+    🆗 ⁉️callback❗️ 🍇
+      ✅👇 description❗️
+    🍉
+    🙅‍♀️ error 🍇
+      🙁👇 description❗️
+    🍉
+  🍉
+
+  ❗🧾 ➡️ 🔡 🍇
+    ↩️ 🔤{❌n  "userId": 1,❌n  "id": 1,❌n  "title": "delectus aut autem",❌n  "completed": false❌n}🔤
+  🍉
+
+  ❗🤠 request 🔶🌐🗺️ ➡️ 🍯🐚⚪🍆 🍇
+    ↩️ 🍯request 💪request❗❗
+  🍉
+
+  ✒️❗ 🏁 🍇
+    💭 JSON GET Request
+    🆕🔶🌐🗺️ 🔤jsonplaceholder.typicode.com🔤 🔤/todos/1🔤❗ ➡️ json_get_request
+
+    🚧👇 🍇🚧🚧🔸↕️ 🔺🚀json_get_request❗ 🍉 🔤Makes a valid GET JSON request🔤❗
+    🔡👇 💪json_get_request❗ 🧾❗ 🔤Returns a stringified JSON todo object🔤❗
+    🔢👇 🍺🔲🐽🤠👇json_get_request❗ 🔤userId🔤❗🔢 1 🔤JSON has a key of userId with a value of 1🔤❗
+    🔢👇 🍺🔲🐽🤠👇json_get_request❗ 🔤id🔤❗🔢 1 🔤JSON has a key of id with a value of 1🔤❗
+    🔡👇 🍺🔲🐽🤠👇json_get_request❗ 🔤title🔤❗🔡 🔤delectus aut autem🔤 🔤JSON has a key of id with a value of delectus aut autem🔤❗
+    ⛔👇 🍺🔲🐽🤠👇json_get_request❗ 🔤completed🔤❗👌 🙌 👎 🔤JSON has a key of completed with a value of false🔤❗
+
+    💭 JSON POST Request
+    💭🔜
+    🍿
+      🔤title🔤 ➡️ 🔤foo🔤
+      🔤body🔤 ➡️ 🔤bar🔤
+      🔤userId🔤 ➡️ 🔤1🔤
+    🍆 ➡️ body
+
+    🆕🔶🌐🗺️ 🔤POST🔤 🔤jsonplaceholder.typicode.com🔤 🔤/posts🔤 🌸🕊️🔶🌐🧰 body❗ 🔤Content-Type: application/json🔤❗ ➡️ post_json_request
+    🚧👇 🍇🚧🚧🔸↕️ 🔺🚀post_json_request❗ 🍉 🔤Makes a valid POST JSON request🔤❗
+    🔡👇 💪post_json_request❗ 🧾❗ 🔤Returns a stringified JSON todo object🔤❗
+    🔡👇 🍺🔲🐽🤠👇post_json_request❗ 🔤userId🔤❗🔡 🔤1🔤 🔤JSON has a key of userId with a value of 1🔤❗
+    🔢👇 🍺🔲🐽🤠👇post_json_request❗ 🔤id🔤❗🔢 101 🔤JSON has a key of id with a value of 101🔤❗
+    🔡👇 🍺🔲🐽🤠👇post_json_request❗ 🔤body🔤❗🔡 🔤bar🔤 🔤JSON has a key of body with a value of bar🔤❗
+    🔡👇 🍺🔲🐽🤠👇post_json_request❗ 🔤title🔤❗🔡 🔤foo🔤 🔤JSON has a key of title with a value of foo🔤❗
+    🔚💭
+
+    💭 JSON DELETE Request
+
+    🆕🔶🌐🗺️ 🔤DELETE🔤 🔤jsonplaceholder.typicode.com🔤 🔤/posts/1🔤❗ ➡️ delete_json_request
+    🚧👇 🍇🚧🚧🔸↕️ 🔺🚀delete_json_request❗ 🍉 🔤Makes a valid DELETE JSON request🔤❗
+    🔡👇 💪delete_json_request❗ 🔤{}🔤 🔤Returns an empty stringified JSON object🔤❗
+
+    💭 HTTP GET Request
+    🆕🔶🌐🗺️ 🔤example.com🔤❗ ➡️ http_request
+
+    🚧👇 🍇🚧🚧🔸↕️ 🔺🚀http_request❗ 🍉 🔤Makes a valid GET HTTP request🔤❗
+    ⛔👇 🎼💪http_request❗ 🔤<!doctype html>🔤❗ 🙌 👍 🔤Response begins with HTML doctype🔤❗
+  🍉
+🍉
+
+🏁 ➡️ 🔢 🍇
+  ↩️ 👔🆕🦔❗️❗️
+🍉

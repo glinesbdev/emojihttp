@@ -1,0 +1,20 @@
+📜 🔤helpers.emojic🔤
+📜 🔤socket.emojic🔤
+📜 🔤request.emojic🔤
+
+🏁 🍇
+  🍿
+    🔤title🔤 ➡️ 🔤foo🔤
+    🔤body🔤 ➡️ 🔤bar🔤
+    🔤userId🔤 ➡️ 🔤1🔤
+  🍆 ➡️ body
+
+  🆕🔶🌐🗺️ 🔤GET🔤 🔤jsonplaceholder.typicode.com🔤 🔤/posts/1🔤❗ ➡️ request
+
+  🆗 🚀request❗ 🍇
+    😀 💪request❗❗
+  🍉
+  🙅 error 🍇
+    😀 💬error❗❗
+  🍉
+🍉

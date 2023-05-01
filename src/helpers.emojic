@@ -1,0 +1,28 @@
+💭 A collection of helper methods
+
+🌍 🕊️ 🔶🌐🧰 🍇
+  🐇❗ 🌸 list 🍯🐚🔡🍆 ➡️ 🔡 🍇
+    🆕🔠▶️🔡 🔤{🔤❗ ➡️ string_builder
+
+    🖍️🆕 count 🔢
+    0 ➡️ 🖍️count
+    📏list❓ ➡️ list_length
+
+    🔂 key 🐙list❗ 🍇
+      count ➕ 1 ➡️ 🖍️count
+
+      🐻string_builder 🔤"🧲key🧲":"🧲🍺🐽list key❗🧲"🔤❗
+
+      ↪️ count ◀️ list_length 🍇
+        🐻string_builder 🔤,🔤❗
+      🍉
+    🍉
+
+    🐻string_builder 🔤}🔤❗
+    ↩️ 🔡string_builder❗
+  🍉
+
+  🐇❗ 🍯 json_str 🔡 ➡️ 🍯🐚⚪️🍆 🍇
+    ↩️🍺🔲🍺⚪️🕊️🌸json_str❗️🍯🐚⚪️🍆
+  🍉
+🍉
